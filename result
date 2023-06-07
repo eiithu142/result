@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2022-2023 Exam Result</title>
+</head>
+<h1>2022-2023 Exam Result</h1><hr>
+<body>
+    <button type="click" aria-placeholder="၁။ရန်ကုန်တိုင်းဒေသကြီး">၁။ရန်ကုန်တိုင်းဒေသကြီး</button>
+    <button type="click" aria-placeholder="၂။မန္တလေးတိုင်းဒေသကြီး">၂။မန္တလေးတိုင်းဒေသကြီး</button>
+    <button type="click" aria-placeholder="၃။နေပြည်တော် ">၃။နေပြည်တော် </button>
+    <button type="click" aria-placeholder="၄။ၕရာဝတီး">၄။ၕရာဝတီး</button>
+    <button type="click" aria-placeholder="၅။စစ်ကိုင်းတိုင်းဒေသကြီး ">၅။စစ်ကိုင်းတိုင်းဒေသကြီး </button>
+    <button type="click" aria-placeholder="၁။ရန်ကုန်တိုင်းဒေသကြီး">၆။ရှမ်းပြည်နယ်</button>
+    
+</body>
+<style>
+     h1{
+        width: auto;
+        margin: auto;
+        animation: animate 5s alternate infinite;
+    }
+    @keyframes animate{
+        20%{
+            background-color: rgb(36, 235, 36);
+        }
+        30%{
+            background-color: aquamarine;
+        }
+        40%{
+            background-color: greenyellow;
+        }
+    }
+</style>
+</html>
